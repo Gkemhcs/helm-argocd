@@ -1,2 +1,2 @@
 image: flask-hello:latest
-replicas: 1
+replicas: 2
